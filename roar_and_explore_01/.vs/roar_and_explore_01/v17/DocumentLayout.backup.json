@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andr\u00E1s\\Desktop\\roar-and-explore\\roar_and_explore_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{986007BE-D524-DE52-D24F-96A6053F2D13}|Assembly-CSharp.csproj|c:\\users\\andr\u00E1s\\desktop\\roar-and-explore\\roar_and_explore_01\\assets\\scripts\\gamemodelscripts\\animalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986007BE-D524-DE52-D24F-96A6053F2D13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemodelscripts\\animalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986007BE-D524-DE52-D24F-96A6053F2D13}|Assembly-CSharp.csproj|c:\\users\\andr\u00E1s\\desktop\\roar-and-explore\\roar_and_explore_01\\assets\\scripts\\gamemodelscripts\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986007BE-D524-DE52-D24F-96A6053F2D13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemodelscripts\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986007BE-D524-DE52-D24F-96A6053F2D13}|Assembly-CSharp.csproj|c:\\users\\andr\u00E1s\\desktop\\roar-and-explore\\roar_and_explore_01\\assets\\scripts\\gamemodelscripts\\hyena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986007BE-D524-DE52-D24F-96A6053F2D13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemodelscripts\\hyena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986007BE-D524-DE52-D24F-96A6053F2D13}|Assembly-CSharp.csproj|C:\\Users\\Andr\u00E1s\\Desktop\\roar-and-explore\\roar_and_explore_01\\assets\\scripts\\mininapscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986007BE-D524-DE52-D24F-96A6053F2D13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mininapscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986007BE-D524-DE52-D24F-96A6053F2D13}|Assembly-CSharp.csproj|c:\\users\\andr\u00E1s\\desktop\\roar-and-explore\\roar_and_explore_01\\assets\\scripts\\gamemodelscripts\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986007BE-D524-DE52-D24F-96A6053F2D13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemodelscripts\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986007BE-D524-DE52-D24F-96A6053F2D13}|Assembly-CSharp.csproj|c:\\users\\andr\u00E1s\\desktop\\roar-and-explore\\roar_and_explore_01\\assets\\scripts\\gamemodelscripts\\herbivore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986007BE-D524-DE52-D24F-96A6053F2D13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemodelscripts\\herbivore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986007BE-D524-DE52-D24F-96A6053F2D13}|Assembly-CSharp.csproj|c:\\users\\andr\u00E1s\\desktop\\roar-and-explore\\roar_and_explore_01\\assets\\scripts\\gamemodelscripts\\carnivore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986007BE-D524-DE52-D24F-96A6053F2D13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemodelscripts\\carnivore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimalManager.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Desktop\\roar-and-explore\\roar_and_explore_01\\Assets\\Scripts\\GameModelScripts\\AnimalManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameModelScripts\\AnimalManager.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Desktop\\roar-and-explore\\roar_and_explore_01\\Assets\\Scripts\\GameModelScripts\\AnimalManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameModelScripts\\AnimalManager.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:21:51.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Desktop\\roar-and-explore\\roar_and_explore_01\\Assets\\Scripts\\GameModelScripts\\GameModel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameModelScripts\\GameModel.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Desktop\\roar-and-explore\\roar_and_explore_01\\Assets\\Scripts\\GameModelScripts\\GameModel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameModelScripts\\GameModel.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAtwDoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:20:05.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hyena.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Desktop\\roar-and-explore\\roar_and_explore_01\\Assets\\Scripts\\GameModelScripts\\Hyena.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameModelScripts\\Hyena.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Desktop\\roar-and-explore\\roar_and_explore_01\\Assets\\Scripts\\GameModelScripts\\Hyena.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameModelScripts\\Hyena.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:17:20.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Herbivore.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Desktop\\roar-and-explore\\roar_and_explore_01\\Assets\\Scripts\\GameModelScripts\\Herbivore.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameModelScripts\\Herbivore.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Desktop\\roar-and-explore\\roar_and_explore_01\\Assets\\Scripts\\GameModelScripts\\Herbivore.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameModelScripts\\Herbivore.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:16:54.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Carnivore.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Desktop\\roar-and-explore\\roar_and_explore_01\\Assets\\Scripts\\GameModelScripts\\Carnivore.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameModelScripts\\Carnivore.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Desktop\\roar-and-explore\\roar_and_explore_01\\Assets\\Scripts\\GameModelScripts\\Carnivore.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameModelScripts\\Carnivore.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:16:44.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Desktop\\roar-and-explore\\roar_and_explore_01\\Assets\\Scripts\\GameModelScripts\\Animal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameModelScripts\\Animal.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Desktop\\roar-and-explore\\roar_and_explore_01\\Assets\\Scripts\\GameModelScripts\\Animal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameModelScripts\\Animal.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAADgv1oAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:34:49.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MininapScript.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E1s\\Desktop\\roar-and-explore\\roar_and_explore_01\\Assets\\Scripts\\MininapScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MininapScript.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E1s\\Desktop\\roar-and-explore\\roar_and_explore_01\\Assets\\Scripts\\MininapScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MininapScript.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADgvycAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:45:38.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
